@@ -1,0 +1,11 @@
+[package]
+name = "markdown-compiler"
+version = "0.1.0"
+authors = ["didof <didonato.fr@gmail.com>"]
+edition = "2018"
+description = "My personal hands on Jesse's tutorial."
+homepage = "https://jesselawson.org/rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
